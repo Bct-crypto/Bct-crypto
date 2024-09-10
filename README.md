@@ -80,19 +80,6 @@ I'm excited to share my journey as a blockchain developer 🚀.
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-
-
-#
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=Bct-crypto&theme=darkmode&data=followers,repositories,stars,commits' />
-</p>
-
-#
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bct-crypto&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
-</p>
-
-
 <h2 align="center">Let's shape a decentralized future together! 🌍✨</h2>
 
 ###
