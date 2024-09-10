@@ -1,13 +1,13 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+web+developer;and+I'm+a+blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+fullstack+developer;and+I'm+a+blockchain+frontend+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
 </p>
 
 
 ##
 <h3>
-I'm excited to share my journey as a blockchain developer 🚀.
+I'm excited to share my journey as a blockchain frontend developer 🚀.
     
-<br>I'm skilled in languages like Solidity, Rust, and Go, and I'm always learning new ones 💡.
+<br>I'm skilled in frameworks and languages like React, Vue, JavaScript, and TypeScript, and I'm always learning new ones 💡.
 <br>I'm passionate about how blockchain can transform finance 💰, supply chain management 📦, identity management 🆔, and more.
 <br>As a blockchain developer, I stay ahead by continuously learning and exploring new possibilities 🔍.
 <br>If you're interested in blockchain or want to explore decentralized solutions, let's connect 🤝!
