@@ -1,16 +1,10 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+fullstack+developer;and+I'm+a+blockchain+frontend+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
-</p>
+###
+<h1 align="center">I am a Blockchain Frontend Developer</h1>
 
-##
 <h3>
 I'm excited to share my journey as a blockchain frontend developer 🚀.
-    
-<br>I'm skilled in frameworks and languages like React, Vue, Next.js, and TypeScript, and I'm always learning new ones 💡.
-<br>As a blockchain frontend developer, I stay ahead by continuously learning and exploring new possibilities 🔍.
-<br>If you're interested in blockchain or want to explore decentralized solutions, let's connect 🤝!
+<br>I have rich experience websites and blockchain projects development.
 </h3>
-
 <br clear="both">
 
 ###
