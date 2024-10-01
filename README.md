@@ -1,5 +1,7 @@
 ###
-<h1 align="center">I am a Blockchain Frontend Developer</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+frontend+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
+</p>
 
 <h3>
 I'm excited to share my journey as a blockchain frontend developer 🚀.
