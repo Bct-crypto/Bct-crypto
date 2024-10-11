@@ -13,7 +13,7 @@ I'm excited to share my journey as a blockchain frontend developer 🚀.
 
 <div align="center" >
   <img src="https://streak-stats.demolab.com?user=Bct-crypto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bct-crypto&locale=en&hide_title=false&hide=html,MDX,css,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bct-crypto&locale=en&hide_title=false&hide=html,MDX,css,PHP,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
