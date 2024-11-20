@@ -76,4 +76,4 @@ I'm excited to share my journey as a Full stacck and Blockchain developer 🚀.
 <br><br>
 </div>
 
-<h2 align="center">Let's start! 🌍✨</h2>
+<h2 align="center">Coding is my life! 🌍✨</h2>
