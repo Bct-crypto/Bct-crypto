@@ -1,6 +1,6 @@
 ###
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+frontend+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
 </p>
 
 <h3>
