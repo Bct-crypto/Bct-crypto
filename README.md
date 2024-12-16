@@ -4,7 +4,7 @@
 </p>
 
 <h3>
-I'm excited to share my journey as a Full stacck and Blockchain developer 🚀.
+I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 <br>I have rich experience websites and blockchain projects development.
 </h3>
 <br clear="both">
