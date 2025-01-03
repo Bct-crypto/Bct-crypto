@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
 </p>
 
-<h3>
+<h3 align="center">
 I'm excited to share my journey as a Full stack and Blockchain developer 🚀.
 <br>I have rich experience websites and blockchain projects development.
 </h3>
